@@ -1,0 +1,55 @@
+
+
+{
+    "signup": {
+        "nome": "Vanessa Muratake", 
+        "cpf": "33311123412", 
+        "email": "vanessa@gmail.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep":"05386020",
+            "rua": "Rua José de Andrade Moraes",
+            "numero": "442",
+            "complemento": "casa 2",
+            "bairro": "Vila Adalgisa",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh":"cnh-digital.jpg"
+    },
+
+    "cpf_incorreto": {
+        "nome": "Vanessa Muratake", 
+        "cpf": "333111234bb", 
+        "email": "vanessa@gmail.com",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep":"05386020",
+            "rua": "Rua José de Andrade Moraes",
+            "numero": "442",
+            "complemento": "casa 2",
+            "bairro": "Vila Adalgisa",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh":"cnh-digital.jpg"        
+    },
+
+    "email_incorreto": {
+        "nome": "Vanessa Muratake", 
+        "cpf": "33311123412", 
+        "email": "vanessa.com.br",
+        "whatsapp": "11999999999",
+        "endereco": {
+            "cep":"05386020",
+            "rua": "Rua José de Andrade Moraes",
+            "numero": "442",
+            "complemento": "casa 2",
+            "bairro": "Vila Adalgisa",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh":"cnh-digital.jpg"
+    }
+
+}
